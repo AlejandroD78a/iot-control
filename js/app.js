@@ -9,7 +9,7 @@ buttons.forEach(button => {
 });
 
 function sendCommand(status) {
-    const url = 'http://3.238.158.212:5000/api/devices';
+    const url = 'http://98.80.196.127:5000/api/devices';
 
     const data = {
         name: "ALEJANDRO ",
